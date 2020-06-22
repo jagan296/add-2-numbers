@@ -1,2 +1,8 @@
-# add-2-numbers
-addition of 2 integers
+#include<stdio.h>
+int main()
+{
+  int a,b;
+  scanf("%d%d",&a,&b);
+  printf("%d",a+b);
+  return 0;
+}
